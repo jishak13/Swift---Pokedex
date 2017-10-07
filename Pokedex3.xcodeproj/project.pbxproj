@@ -47,6 +47,7 @@
 		C19E33441F8883AD006EC44C /* Pokedex3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Pokedex3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C19E33481F8883AD006EC44C /* Pokedex3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokedex3UITests.swift; sourceTree = "<group>"; };
 		C19E334A1F8883AD006EC44C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C19E33561F88864B006EC44C /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 				C19E332A1F8883AD006EC44C /* ViewController.swift */,
 				C19E332C1F8883AD006EC44C /* Main.storyboard */,
 				C19E332F1F8883AD006EC44C /* Assets.xcassets */,
+				C19E33561F88864B006EC44C /* pokemon.csv */,
 				C19E33311F8883AD006EC44C /* LaunchScreen.storyboard */,
 				C19E33341F8883AD006EC44C /* Info.plist */,
 			);
